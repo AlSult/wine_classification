@@ -14,6 +14,15 @@ The goal is to visualize the data, understand feature relationships, and build a
   - `class_1`
   - `class_2`
 
+### Dataset Description
+
+The dataset contains the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. Each wine is described by 13 numerical features (e.g., alcohol content, flavanoids, color intensity) and a class label indicating its cultivar.
+
+A quick summary of the dataset:
+- All features are continuous and numeric
+- No missing values
+- Class distribution is roughly balanced among the 3 types
+
 ---
 
 ## Features
